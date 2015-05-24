@@ -1,4 +1,5 @@
-.ytp-chrome-top, .ytp-gradient-top {
+.html5-video-player:not(.house-brand) .ytp-chrome-top,
+.html5-video-player:not(.house-brand) .ytp-gradient-top {
   display: block !important;
 }
 
