@@ -1,0 +1,7 @@
+.ytp-chrome-top, .ytp-gradient-top {
+  display: block !important;
+}
+
+.html5-video-player.ended-mode .ytp-title {
+  display: none;
+}
